@@ -28,19 +28,19 @@
   "movieId": "20002",
   "title": "Interstellar",
   "year": 2014,
-  "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+  "url": "https://github.com/JamesRhodes595/personal/blob/13dddaf55446c0e00995428c7f83a3818b0c9669/interstellar.jpg"
 },
 {
   "movieId": "20003",
   "title": "The Dark Knight",
   "year": 2008,
-  "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+  "url": "https://github.com/JamesRhodes595/personal/blob/13dddaf55446c0e00995428c7f83a3818b0c9669/DarkKnight.jpg"
 },
 {
   "movieId": "20010",
   "title": "Star Wars: A New Hope",
   "year": 1977,
-  "url": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg"
+  "url": "https://github.com/JamesRhodes595/personal/blob/13dddaf55446c0e00995428c7f83a3818b0c9669/AnewHope.jpg"
 }
   ]
 }
